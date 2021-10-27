@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+}
+h2{
+  font-family:'Rampart One', cursive;
+}
+h3{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 25px
+}
+h4,p,li{
+  font-family: 'Roboto', sans-serif;
+}
+hr{
+  margin: 0;
+  border-style: dotted none none none;
+  border-width: 3px;
+  width: 90%;
+  margin:auto;
+}
+
+
+/*------------------Top-----------------*/
+.name{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #CEE5D0;
+  padding: 40px;
+  color: #5E454B;
+}
+.arrow{
+  border-radius: 50%;
+  width: 11%;
+  position: absolute;
+  top: 15rem;
+  left: 29.5rem;
+}
+.Me{
+  position: absolute;
+  top: 16.5rem;
+  left: 31.5rem;
+}
+
+
+/*------------------Mid-----------------*/
+.mid-container{
+  background-color: #F3F0D7;
+  padding: 30px;
+}
+
+
+/*------------------Bot-----------------*/
+.bot-container{
+  background-color: #F7D59C;
+  padding: 30px;
+  padding-top: 0;
+}
+.table{
+  margin-left: 25%;
+}
+.img-yt{
+  float: left;
+  padding: 20px
+}
+.img-pc{
+  float: right;
+  padding: 20px
+}
+.img-tr{
+  float: left;
+  padding: 20px
+}
+.img-dc{
+  float: right;
+  padding: 20px
+}
+ .desire-row{
+   margin: auto;
+   width: 50%;
+   text-align: left;
+   padding: 10px
+ }
+
+/*------------------Contact-----------------*/
+.link-container{
+  background-color: #5E454B;
+  padding: 10px;
+  padding-left: 20rem;
+  color: #F7D59C;
+}
+.contact{
+  text-decoration: underline;
+}
+.btn{
+  float: left;
+}
